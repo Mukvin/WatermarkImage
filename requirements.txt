@@ -1,0 +1,12 @@
+altgraph==0.17.4
+importlib-metadata==6.7.0
+macholib==1.16.3
+packaging==24.0
+Pillow==9.5.0
+pyinstaller-hooks-contrib==2024.3
+PyQt5==5.15.10
+PyQt5-Qt5==5.15.12
+PyQt5-sip==12.13.0
+PyQt5-stubs==5.15.6.0
+typing-extensions==4.7.1
+zipp==3.15.0
